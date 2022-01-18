@@ -18,13 +18,11 @@
 }
 
 .header-title {
-    font-family: "Karla", sans-serif;
     font-size: 1.75rem;
     margin-right: auto;
 }
 
 .header-project {
-    font-family: "Karla", sans-serif;
     font-size: 1.25rem;
     font-weight: 500;
 }
